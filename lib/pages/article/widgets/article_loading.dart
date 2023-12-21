@@ -58,8 +58,8 @@ class ArticleLoading extends StatelessWidget {
                         Text('Loading ...'),
                         Icon(
                           Icons.timelapse,
-                          color: Colors.white,
-                          size: 30,
+                          color: Colors.red,
+                          size: 25,
                         ),
                       ],
                     ),
