@@ -55,7 +55,7 @@ class CategoryPage extends StatelessWidget {
                 } else {
                   return Container(
                     child: const Center(
-                      child: Text('No Data'),
+                      child: Text('lỗi sản phẩm'),
                     ),
                   );
                 }
