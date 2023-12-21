@@ -16,7 +16,13 @@ class HomeTitle extends StatelessWidget {
           ),
         ),
         SizedBox(height: getHeight(context) * 0.02),
-        const Text('Bộ câu hỏi được làm bởi Nguyễn Đức Tùng'),
+        const Text(
+            'Bộ câu hỏi được làm bởi Nguyễn Đức Tùng',
+                style: TextStyle(
+                  fontSize:15,
+                  fontWeight: FontWeight.bold,
+    ),
+        ),
         SizedBox(height: getHeight(context) * 0.06),
         const Text('Copyright by Nguyen Duc Tung ☞ Do not Reup ',
         style: TextStyle(

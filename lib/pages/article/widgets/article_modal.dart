@@ -79,7 +79,7 @@ RichText errorAnswer(String valueInput, answer) {
         TextSpan(
             text: answer.toString(),
             style: const TextStyle(
-              color: Colors.green,
+              color: Colors.black,
               fontSize: 22,
             )),
       ],
