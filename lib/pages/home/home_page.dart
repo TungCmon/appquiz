@@ -35,6 +35,7 @@ class HomePage extends StatelessWidget {
                       }
                     },
                     title: 'Bắt đầu thực hành',
+
                   ),
                 ],
               ),
